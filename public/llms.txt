@@ -7,69 +7,69 @@
 ## Pages
 
 ### Home
-https://jewel-8046881c.zappy5.app
+https://example.com
 Step into jewel&#39;s modern world of fine jewelry. Browse stunning collections, enjoy seamless payments, and find your perfect piece at one of the best ecommerce jewelry sites today.
 
 ### Craftsmanship
-https://jewel-8046881c.zappy5.app/craftsmanship
+https://example.com/craftsmanship
 Delve into the meticulous craftsmanship behind every jewel piece. Learn about our techniques and quality that define us as a leading ecommerce jewelry store. Experience excellence.
 
 ### Gift Guide
-https://jewel-8046881c.zappy5.app/gift-guide
+https://example.com/gift-guide
 Searching for a meaningful gift? jewel&#39;s guide simplifies choosing from top ecommerce jewelry stores. Match any style and occasion with our elegant, lasting treasures.
 
 ### Contact
-https://jewel-8046881c.zappy5.app/contact
+https://example.com/contact
 Have questions or need styling advice? Reach out to jewel&#39;s team for personalized support. We make your experience at the best ecommerce jewelry sites effortless and enjoyable.
 
 ### Products
-https://jewel-8046881c.zappy5.app/products
+https://example.com/products
 Our Products - jewel
 
 ### Cart
-https://jewel-8046881c.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://jewel-8046881c.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://jewel-8046881c.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://jewel-8046881c.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://jewel-8046881c.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://jewel-8046881c.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - jewel
 
 ### Category
-https://jewel-8046881c.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - jewel
 
 ### Thank You | jewel
-https://jewel-8046881c.zappy5.app/thank-you
+https://example.com/thank-you
 Thank you for contacting one of the best ecommerce jewelry sites. We have received your message and will be in touch shortly.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://jewel-8046881c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://jewel-8046881c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://jewel-8046881c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ E-commerce / Jewelry
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://jewel-8046881c.zappy5.app/sitemap.xml
-- Robots: https://jewel-8046881c.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://jewel-8046881c.zappy5.app/llms-full.txt
-- Products (JSON): https://jewel-8046881c.zappy5.app/products.json
-- Products (Google Merchant RSS): https://jewel-8046881c.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
