@@ -1,0 +1,104 @@
+# jewel — Generative Engine Optimization Map
+
+> A modern e-commerce jewelry store featuring product pages with integrated payment functionality and stock photography. The site aims to present jewelry collections in a sleek, contemporary online shopping experience.
+
+---
+
+## Pages
+
+### Home
+https://jewel-8046881c.zappy5.app
+Step into jewel&#39;s modern world of fine jewelry. Browse stunning collections, enjoy seamless payments, and find your perfect piece at one of the best ecommerce jewelry sites today.
+
+### Craftsmanship
+https://jewel-8046881c.zappy5.app/craftsmanship
+Delve into the meticulous craftsmanship behind every jewel piece. Learn about our techniques and quality that define us as a leading ecommerce jewelry store. Experience excellence.
+
+### Gift Guide
+https://jewel-8046881c.zappy5.app/gift-guide
+Searching for a meaningful gift? jewel&#39;s guide simplifies choosing from top ecommerce jewelry stores. Match any style and occasion with our elegant, lasting treasures.
+
+### Contact
+https://jewel-8046881c.zappy5.app/contact
+Have questions or need styling advice? Reach out to jewel&#39;s team for personalized support. We make your experience at the best ecommerce jewelry sites effortless and enjoyable.
+
+### Products
+https://jewel-8046881c.zappy5.app/products
+Our Products - jewel
+
+### Cart
+https://jewel-8046881c.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://jewel-8046881c.zappy5.app/checkout
+Checkout
+
+### Login
+https://jewel-8046881c.zappy5.app/login
+Customer Login
+
+### Account
+https://jewel-8046881c.zappy5.app/account
+My Account
+
+### Order Success
+https://jewel-8046881c.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://jewel-8046881c.zappy5.app/product/:slug
+Product Details - jewel
+
+### Category
+https://jewel-8046881c.zappy5.app/category/:slug
+Products - jewel
+
+### Thank You | jewel
+https://jewel-8046881c.zappy5.app/thank-you
+Thank you for contacting one of the best ecommerce jewelry sites. We have received your message and will be in touch shortly.
+
+## Legal & Policy
+
+### Privacy Policy
+https://jewel-8046881c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://jewel-8046881c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://jewel-8046881c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About jewel
+A modern e-commerce jewelry store featuring product pages with integrated payment functionality and stock photography. The site aims to present jewelry collections in a sleek, contemporary online shopping experience.
+
+## Target Audience
+- Affluent Engaged Couples
+- Gift Shoppers for Special Occasions
+- Fashion-Forward Young Professionals
+
+## Industry
+E-commerce / Jewelry
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://jewel-8046881c.zappy5.app/sitemap.xml
+- Robots: https://jewel-8046881c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://jewel-8046881c.zappy5.app/llms-full.txt
+- Products (JSON): https://jewel-8046881c.zappy5.app/products.json
+- Products (Google Merchant RSS): https://jewel-8046881c.zappy5.app/product-feed.xml
